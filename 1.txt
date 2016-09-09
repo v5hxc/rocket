@@ -1,0 +1,133 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1  33388  2568 ?        Ss   Jun13   0:03 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Jun13   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Jun13   0:05 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Jun13   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        S    Jun13   0:21 [kworker/u30:0]
+root         7  0.0  0.0      0     0 ?        S    Jun13   7:56 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    Jun13  22:03 [rcuos/0]
+root         9  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/1]
+root        10  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/2]
+root        11  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/3]
+root        12  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/4]
+root        13  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/5]
+root        14  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/6]
+root        15  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/7]
+root        16  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/8]
+root        17  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/9]
+root        18  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/10]
+root        19  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/11]
+root        20  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/12]
+root        21  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/13]
+root        22  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuos/14]
+root        23  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcu_bh]
+root        24  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/0]
+root        25  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/1]
+root        26  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/2]
+root        27  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/3]
+root        28  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/4]
+root        29  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/5]
+root        30  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/6]
+root        31  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/7]
+root        32  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/8]
+root        33  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/9]
+root        34  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/10]
+root        35  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/11]
+root        36  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/12]
+root        37  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/13]
+root        38  0.0  0.0      0     0 ?        S    Jun13   0:00 [rcuob/14]
+root        39  0.0  0.0      0     0 ?        S    Jun13   0:00 [migration/0]
+root        40  0.0  0.0      0     0 ?        S    Jun13   0:35 [watchdog/0]
+root        41  0.0  0.0      0     0 ?        S<   Jun13   0:00 [khelper]
+root        42  0.0  0.0      0     0 ?        S    Jun13   0:00 [kdevtmpfs]
+root        43  0.0  0.0      0     0 ?        S<   Jun13   0:00 [netns]
+root        44  0.0  0.0      0     0 ?        S    Jun13   0:00 [xenwatch]
+root        45  0.0  0.0      0     0 ?        S    Jun13   0:00 [xenbus]
+root        46  0.0  0.0      0     0 ?        S    Jun13  21:28 [kworker/0:1]
+root        47  0.0  0.0      0     0 ?        S<   Jun13   0:00 [writeback]
+root        48  0.0  0.0      0     0 ?        S<   Jun13   0:00 [kintegrityd]
+root        49  0.0  0.0      0     0 ?        S<   Jun13   0:00 [bioset]
+root        50  0.0  0.0      0     0 ?        S<   Jun13   0:00 [kworker/u31:0]
+root        51  0.0  0.0      0     0 ?        S<   Jun13   0:00 [kblockd]
+root        52  0.0  0.0      0     0 ?        S<   Jun13   0:00 [ata_sff]
+root        53  0.0  0.0      0     0 ?        S    Jun13   0:00 [khubd]
+root        54  0.0  0.0      0     0 ?        S<   Jun13   0:00 [md]
+root        55  0.0  0.0      0     0 ?        S<   Jun13   0:00 [devfreq_wq]
+root        57  0.0  0.0      0     0 ?        S    Jun13   0:02 [khungtaskd]
+root        58  0.0  0.0      0     0 ?        S    Jun13   0:01 [kswapd0]
+root        59  0.0  0.0      0     0 ?        SN   Jun13   0:00 [ksmd]
+root        60  0.0  0.0      0     0 ?        SN   Jun13   0:23 [khugepaged]
+root        61  0.0  0.0      0     0 ?        S    Jun13   0:00 [fsnotify_mark]
+root        62  0.0  0.0      0     0 ?        S    Jun13   0:00 [ecryptfs-kthrea]
+root        63  0.0  0.0      0     0 ?        S<   Jun13   0:00 [crypto]
+root        75  0.0  0.0      0     0 ?        S<   Jun13   0:00 [kthrotld]
+root        77  0.0  0.0      0     0 ?        S    Jun13   0:00 [scsi_eh_0]
+root        78  0.0  0.0      0     0 ?        S    Jun13   0:00 [scsi_eh_1]
+root        99  0.0  0.0      0     0 ?        S<   Jun13   0:00 [deferwq]
+root       100  0.0  0.0      0     0 ?        S<   Jun13   0:00 [charger_manager]
+root       145  0.0  0.0      0     0 ?        S<   Jun13   0:00 [kpsmoused]
+root       154  0.0  0.0      0     0 ?        S    Jun13   0:15 [jbd2/xvda1-8]
+root       155  0.0  0.0      0     0 ?        S<   Jun13   0:00 [ext4-rsv-conver]
+root       161  0.0  0.0      0     0 ?        S    Jun13   0:00 [kworker/0:2]
+root       295  0.0  0.0  19472   760 ?        S    Jun13   0:00 upstart-udev-bridge --daemon
+root       301  0.0  0.0  51580  1420 ?        Ss   Jun13   0:00 /lib/systemd/systemd-udevd --daemon
+root       348  0.0  0.0      0     0 ?        S<   Jun13   0:00 [ttm_swap]
+message+   612  0.0  0.0  39220  1380 ?        Ss   Jun13   0:00 dbus-daemon --system --fork
+root       658  0.0  0.0  43448  1636 ?        Ss   Jun13   0:00 /lib/systemd/systemd-logind
+syslog     660  0.0  1.1 256228 24428 ?        Ssl  Jun13   0:12 rsyslogd
+root       684  0.0  0.0  15520   788 ?        S    Jun13   0:00 upstart-socket-bridge --daemon
+root       697  0.0  0.0  15272   512 ?        S    Jun13   0:00 upstart-file-bridge --daemon
+root       739  0.0  0.0  15816   888 tty4     Ss+  Jun13   0:00 /sbin/getty -8 38400 tty4
+root       741  0.0  0.0  15816   884 tty5     Ss+  Jun13   0:00 /sbin/getty -8 38400 tty5
+root       744  0.0  0.0  15816   884 tty2     Ss+  Jun13   0:00 /sbin/getty -8 38400 tty2
+root       745  0.0  0.0  15816   888 tty3     Ss+  Jun13   0:00 /sbin/getty -8 38400 tty3
+root       747  0.0  0.0  15816   880 tty6     Ss+  Jun13   0:00 /sbin/getty -8 38400 tty6
+root       770  0.0  0.1  61364  2268 ?        Ss   Jun13   0:08 /usr/sbin/sshd -D
+root       778  0.0  0.0  23652  1004 ?        Ss   Jun13   0:13 cron
+root       819  0.0  0.0      0     0 ?        S<   Jun13   0:01 [kworker/u31:1]
+root       824  0.0  0.0  25528    40 ?        Ssl  Jun13   0:00 /usr/sbin/gshelld
+nobody     842  0.0  0.0 535996  1256 ?        Ssl  Jun13   0:19 /usr/sbin/nscd
+root       905  0.0  0.1  25268  2332 ?        Ssl  Jun13  82:04 /usr/local/aegis/aegis_update/AliYunDunUpdate
+root       933  0.0  0.0  15816   896 tty1     Ss+  Jun13   0:00 /sbin/getty -8 38400 tty1
+ntp       1139  0.0  0.0  27436  1772 ?        Ss   Jun13   6:43 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 103:109
+root      1141  0.0  0.0      0     0 ?        S    Jun13   0:00 [kauditd]
+root      5470  0.0  0.0      0     0 ?        S    Jun30   0:00 [kworker/u30:1]
+root      5592  0.0  0.6 281408 12692 ?        Ss   Jun22   3:53 php-fpm: master process (/etc/php5/fpm/php-fpm.conf)                    
+www-data  5614  0.0  1.6 286712 34452 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5615  0.0  1.8 290796 38268 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5632  0.0  1.9 290528 39884 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5635  0.0  1.7 288224 35140 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5637  0.0  1.6 288208 34812 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5655  0.0  1.7 290060 36384 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5666  0.0  1.7 289128 36608 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5675  0.0  1.7 288472 35080 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5692  0.0  1.7 288208 35384 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5708  0.0  1.7 289804 36388 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5718  0.0  1.7 288728 36084 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5727  0.0  1.7 288208 34868 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5743  0.0  1.6 288208 34760 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5756  0.0  1.8 289124 37664 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5762  0.0  1.7 288728 35636 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5774  0.0  1.7 289124 36036 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5789  0.0  1.7 288724 35284 ?        S    Jun22   0:01 php-fpm: pool www                                                       
+www-data  5794  0.0  1.7 289124 36668 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5821  0.0  1.7 288728 35356 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5844  0.0  1.7 288208 34836 ?        S    Jun22   0:01 php-fpm: pool www                                                       
+www-data  5864  0.0  1.8 289388 37728 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5869  0.0  1.7 289124 36052 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5891  0.0  1.8 288728 38412 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5907  0.0  1.7 289128 36168 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5910  0.0  1.7 289528 36392 ?        S    Jun22   0:01 php-fpm: pool www                                                       
+www-data  5931  0.0  1.7 289804 36716 ?        S    Jun22   0:01 php-fpm: pool www                                                       
+www-data  5946  0.0  1.7 289384 36296 ?        S    Jun22   0:01 php-fpm: pool www                                                       
+www-data  5952  0.0  1.7 289124 35980 ?        S    Jun22   0:02 php-fpm: pool www                                                       
+www-data  5970  0.0  1.7 289124 35720 ?        S    Jun22   0:01 php-fpm: pool www                                                       
+www-data  5972  0.0  1.7 288728 35336 ?        S    Jun22   0:01 php-fpm: pool www                                                       
+root      6466  0.3  0.4 107268  9480 ?        Sl   Aug24  71:30 /usr/local/aegis/alihids/AliHids
+mysql     7269  0.0 23.8 1339872 487956 ?      Ssl  Jun13  41:44 /usr/sbin/mysqld
+root      8250  0.0  0.2 103772  4316 ?        Ss   16:23   0:00 sshd: root@pts/0    
+root      8269  0.1  0.2  22828  4160 pts/0    Ss   16:23   0:00 -bash
+root      8294  0.0  0.0  18416  1236 pts/0    R+   16:24   0:00 ps aux
+root     25456  0.2  0.3  65248  6484 ?        Ssl  Jul13 187:12 /usr/local/aegis/aegis_client/aegis_00_95/AliYunDun
+root     27384  0.0  0.0  90656  1252 ?        Ss   Jun28   0:00 nginx: master process /usr/sbin/nginx -c /etc/nginx/nginx.conf
+www-data 27385  0.0  0.1  91080  2664 ?        S    Jun28   0:07 nginx: worker process                   
